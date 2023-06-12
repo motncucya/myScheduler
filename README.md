@@ -1,8 +1,10 @@
 # 簡易ToDoリスト
+簡単なコマンドを使ってToDoリストを管理します。
 # Build & Compile
 ```
 $ git clone https://github.com/motncucya/myScheduler.git
 $ cd myScheduler
+$ export CXXFLAGS="-std=c++17"
 $ make
 ```
 # Start
