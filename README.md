@@ -1,8 +1,8 @@
 # 簡易ToDoリスト
 簡単なコマンドを使ってToDoリストを管理します.
 # 特長
-シンプルなコマンドでリストを管理できます.
-各作業への時間配分を求めることができます.
+ - シンプルなコマンドでリストを管理できます.  
+ - 各作業への時間配分を求めることができます.
 # Build & Compile
 ```
 $ git clone https://github.com/motncucya/myScheduler.git
