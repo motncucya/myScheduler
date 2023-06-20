@@ -1,5 +1,8 @@
 # 簡易ToDoリスト
 簡単なコマンドを使ってToDoリストを管理します.
+# 特長
+シンプルなコマンドでリストを管理できます.
+各作業への時間配分を求めることができます.
 # Build & Compile
 ```
 $ git clone https://github.com/motncucya/myScheduler.git
@@ -38,7 +41,7 @@ quit
 ## スケジューリング 
 作業時間に予定の優先度のシェアを乗じて、その予定に割ける時間を求めます.
 ```
-$ scheule
+$ schedule
 ```
 
 # 実行例
